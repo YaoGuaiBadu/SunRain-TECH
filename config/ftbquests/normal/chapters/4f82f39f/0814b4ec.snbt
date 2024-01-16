@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"92608d15"
+	],
+	tasks: [{
+		uid: "29896c9a",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 64L
+	}]
+}

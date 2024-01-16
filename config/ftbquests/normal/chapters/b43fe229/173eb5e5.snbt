@@ -1,0 +1,12 @@
+{
+	title: "电弧炉",
+	x: -5.0d,
+	y: 1.5d,
+	dependencies: [
+		"555106ec"
+	],
+	tasks: [{
+		uid: "92f8a42d",
+		type: "checkmark"
+	}]
+}

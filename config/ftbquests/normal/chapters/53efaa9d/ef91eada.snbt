@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 6.0d,
+	dependencies: [
+		"340154c1",
+		"de11a2e8",
+		"360ff4ac",
+		"c3d4b0ea",
+		"baf01dbf"
+	],
+	tasks: [{
+		uid: "3aaac421",
+		type: "item",
+		items: [{
+			item: "contenttweaker:picv"
+		}]
+	}]
+}

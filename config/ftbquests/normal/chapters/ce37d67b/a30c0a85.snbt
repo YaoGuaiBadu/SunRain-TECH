@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 9.5d,
+	dependencies: [
+		"c1157704"
+	],
+	tasks: [{
+		uid: "5a5e46f9",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 15"
+		}],
+		ignore_nbt: 1b
+	}]
+}

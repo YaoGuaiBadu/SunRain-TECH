@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"3b83a194"
+	],
+	tasks: [{
+		uid: "30144b01",
+		type: "item",
+		items: [{
+			item: "ic2:ingot"
+		}]
+	}]
+}

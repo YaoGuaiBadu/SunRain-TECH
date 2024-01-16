@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"4bc60f1f"
+	],
+	tasks: [{
+		uid: "a15a92e6",
+		type: "item",
+		items: [{
+			item: "opencomputers:assembler"
+		}]
+	}]
+}

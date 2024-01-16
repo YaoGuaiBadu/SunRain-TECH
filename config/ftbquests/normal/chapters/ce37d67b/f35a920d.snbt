@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 3.5d,
+	dependencies: [
+		"65330435"
+	],
+	tasks: [{
+		uid: "f0c92c12",
+		type: "item",
+		items: [{
+			item: "mets:superconducting_cable"
+		}]
+	}]
+}

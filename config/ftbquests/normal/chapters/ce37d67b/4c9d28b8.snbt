@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -6.5d,
+	dependencies: [
+		"ccee7810"
+	],
+	tasks: [{
+		uid: "031c824d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:shimmerleaf"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	shape: "gear",
+	dependencies: [
+		"bd5a8d21",
+		"2bcfc790"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "3694c030",
+		type: "item",
+		items: [{
+			item: "contenttweaker:circuitmv"
+		}]
+	}]
+}

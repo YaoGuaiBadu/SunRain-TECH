@@ -1,0 +1,30 @@
+{
+	x: 3.0d,
+	y: 8.5d,
+	dependencies: [
+		"8fe356de",
+		"44544376",
+		"7dcc35cb"
+	],
+	tasks: [{
+		uid: "06840d76",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	},
+	{
+		uid: "42281fe7",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 128"
+		}]
+	},
+	{
+		uid: "5b6ed7c1",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 129"
+		}]
+	}]
+}

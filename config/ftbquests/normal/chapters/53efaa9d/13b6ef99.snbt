@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 5.0d,
+	dependencies: [
+		"b9fb7ed6",
+		"62338014"
+	],
+	tasks: [{
+		uid: "e7902700",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "boron_nitride_solution",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	dependencies: [
+		"aa02bd9f"
+	],
+	tasks: [{
+		uid: "1186c13b",
+		type: "item",
+		items: [{
+			item: "ic2:containment_plating"
+		}]
+	}]
+}

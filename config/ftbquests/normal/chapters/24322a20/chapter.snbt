@@ -1,0 +1,7 @@
+{
+	title: "支线-手搓都是大笨蛋",
+	icon: "appliedenergistics2:inscriber",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

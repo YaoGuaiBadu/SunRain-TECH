@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	dependencies: [
+		"c321031d",
+		"cf57078a"
+	],
+	tasks: [{
+		uid: "a60cb0b6",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "biodiesel",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

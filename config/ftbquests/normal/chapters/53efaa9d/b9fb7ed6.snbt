@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 4.0d,
+	dependencies: [
+		"af37d006"
+	],
+	tasks: [{
+		uid: "f17365f9",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "ammonia",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

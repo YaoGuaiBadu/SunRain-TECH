@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 2.0d,
+	dependencies: [
+		"de662c49"
+	],
+	tasks: [{
+		uid: "54045ab4",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_dust"
+		}],
+		count: 64L
+	}]
+}

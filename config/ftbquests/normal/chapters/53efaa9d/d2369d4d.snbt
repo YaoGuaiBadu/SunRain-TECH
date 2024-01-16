@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 5.0d,
+	dependencies: [
+		"6deb6d2c"
+	],
+	tasks: [{
+		uid: "415305b2",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:pellet_thorium"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: 4.0d,
+	dependencies: [
+		"3a8a5dfe"
+	],
+	tasks: [{
+		uid: "83c00f6e",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "a86b6e8d",
+		type: "item",
+		item: "tconstruct:seared 1 3",
+		count: 64
+	}]
+}

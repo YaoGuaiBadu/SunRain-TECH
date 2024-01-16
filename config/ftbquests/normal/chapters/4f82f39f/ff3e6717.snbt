@@ -1,0 +1,21 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"f421e221"
+	],
+	tasks: [{
+		uid: "939233a9",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 1"
+		}]
+	},
+	{
+		uid: "3f34ebfa",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	}]
+}

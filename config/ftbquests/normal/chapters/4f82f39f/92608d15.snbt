@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	dependencies: [
+		"3231ec66"
+	],
+	tasks: [{
+		uid: "ad1a2817",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 64L
+	},
+	{
+		uid: "2111545a",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:hammer_wood"
+		},
+		{
+			item: "exnihilocreatio:hammer_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

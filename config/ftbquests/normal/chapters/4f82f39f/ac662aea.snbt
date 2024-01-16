@@ -1,0 +1,22 @@
+{
+	x: 11.0d,
+	y: 0.0d,
+	dependencies: [
+		"ff3e6717",
+		"da39d9e4"
+	],
+	tasks: [{
+		uid: "2adf080f",
+		type: "item",
+		items: [{
+			item: "excompressum:heavy_sieve"
+		}]
+	},
+	{
+		uid: "22c4e457",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 2"
+		}]
+	}]
+}

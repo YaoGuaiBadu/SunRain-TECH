@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: 4.0d,
+	dependencies: [
+		"4375103b",
+		"69a931ab"
+	],
+	tasks: [{
+		uid: "62f4677e",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		},
+		{
+			item: "minecraft:clay"
+		}]
+	}]
+}

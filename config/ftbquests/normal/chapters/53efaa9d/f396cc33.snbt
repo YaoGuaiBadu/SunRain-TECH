@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 6.0d,
+	dependencies: [
+		"b0b36db3",
+		"f82030aa",
+		"9f6bafe4"
+	],
+	tasks: [{
+		uid: "aca55694",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cpuiii"
+		}]
+	}]
+}

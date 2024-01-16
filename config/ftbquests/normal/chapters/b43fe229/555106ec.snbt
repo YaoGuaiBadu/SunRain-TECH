@@ -1,0 +1,29 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	dependencies: [
+		"ba121aff",
+		"61b76b32"
+	],
+	tasks: [{
+		uid: "1e7a98c3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "332f1e2c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}]
+	},
+	{
+		uid: "22ae5ee9",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}]
+	}]
+}

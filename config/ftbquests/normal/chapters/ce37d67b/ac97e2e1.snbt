@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 5.5d,
+	dependencies: [
+		"f35a920d"
+	],
+	tasks: [{
+		uid: "0c9b91e0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cpuii"
+		}]
+	}]
+}

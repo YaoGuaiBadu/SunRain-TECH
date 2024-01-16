@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 3.5d,
+	dependencies: [
+		"bc70c479",
+		"a8409c9a"
+	],
+	tasks: [{
+		uid: "a31f694f",
+		type: "item",
+		items: [{
+			item: "ic2:sapling"
+		}]
+	}]
+}

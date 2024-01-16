@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: 5.5d,
+	dependencies: [
+		"4cabec4f",
+		"6ece9460",
+		"0bdde09a"
+	],
+	tasks: [{
+		uid: "a055d1e8",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	}]
+}

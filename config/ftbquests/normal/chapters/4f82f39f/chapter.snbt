@@ -1,0 +1,7 @@
+{
+	title: "第一章—由此开始",
+	icon: "minecraft:grass",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "square"
+}

@@ -1,0 +1,20 @@
+{
+	x: 2.5d,
+	y: 1.5d,
+	dependencies: [
+		"70e7d9bb"
+	],
+	tasks: [{
+		uid: "d09eed3d",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "crude_oil",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

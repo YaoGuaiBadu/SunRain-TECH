@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	dependencies: [
+		"555106ec"
+	],
+	tasks: [{
+		uid: "3f87c1c5",
+		type: "checkmark",
+		title: "工业挤压机"
+	}]
+}

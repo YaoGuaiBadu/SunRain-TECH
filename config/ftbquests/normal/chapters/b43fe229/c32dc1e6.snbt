@@ -1,0 +1,15 @@
+{
+	x: -2.0d,
+	y: 13.0d,
+	dependencies: [
+		"b76e0c65"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "bebed18f",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 12"
+		}]
+	}]
+}

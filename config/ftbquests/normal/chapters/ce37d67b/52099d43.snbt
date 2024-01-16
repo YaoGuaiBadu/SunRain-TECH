@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 14.5d,
+	dependencies: [
+		"953415a6",
+		"6fbdc21a"
+	],
+	tasks: [{
+		uid: "095d8f7c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:circuitev"
+		}]
+	}]
+}

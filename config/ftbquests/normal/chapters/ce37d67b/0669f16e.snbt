@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -4.5d,
+	dependencies: [
+		"4c9d28b8"
+	],
+	tasks: [{
+		uid: "f72dd719",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mirrored_glass"
+		}]
+	}]
+}

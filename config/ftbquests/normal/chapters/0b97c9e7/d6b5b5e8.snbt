@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"703dd675",
+		"c6011858",
+		"28556ba9",
+		"311b40a6"
+	],
+	tasks: [{
+		uid: "9d825d11",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 8"
+		}]
+	}]
+}

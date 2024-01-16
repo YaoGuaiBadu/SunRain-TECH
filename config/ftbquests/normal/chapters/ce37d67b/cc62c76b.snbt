@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	dependencies: [
+		"65330435",
+		"a246d220"
+	],
+	tasks: [{
+		uid: "a5b46b68",
+		type: "item",
+		items: [{
+			item: "modularmachinery:assembly_mkii_controller"
+		}]
+	}]
+}

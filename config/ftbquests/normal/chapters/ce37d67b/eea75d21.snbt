@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 9.5d,
+	dependencies: [
+		"c1157704"
+	],
+	tasks: [{
+		uid: "ec005bac",
+		type: "item",
+		items: [{
+			item: "thaumcraft:plate 1 3"
+		}]
+	}]
+}

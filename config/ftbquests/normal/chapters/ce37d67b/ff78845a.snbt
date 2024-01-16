@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	dependencies: [
+		"fdc8f364"
+	],
+	tasks: [{
+		uid: "f8a5003e",
+		type: "item",
+		items: [{
+			item: "ic2:overclocked_heat_vent"
+		}]
+	}]
+}

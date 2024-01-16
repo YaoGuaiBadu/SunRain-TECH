@@ -1,0 +1,12 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	dependencies: [
+		"8ca2413f"
+	],
+	tasks: [{
+		uid: "7adff1a4",
+		type: "checkmark",
+		title: "斗轮挖掘机"
+	}]
+}

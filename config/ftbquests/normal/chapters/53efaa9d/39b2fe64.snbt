@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	dependencies: [
+		"cadfe470"
+	],
+	tasks: [{
+		uid: "477e4c69",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_dust 1 3"
+		}]
+	}]
+}

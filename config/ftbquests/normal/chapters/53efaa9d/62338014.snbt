@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: 4.0d,
+	dependencies: [
+		"05cd40c1",
+		"20249312"
+	],
+	tasks: [{
+		uid: "68622d32",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "boric_acid",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

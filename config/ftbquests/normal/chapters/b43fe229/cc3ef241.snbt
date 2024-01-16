@@ -1,0 +1,15 @@
+{
+	x: -3.0d,
+	y: 5.5d,
+	dependencies: [
+		"cf2b0f19",
+		"173eb5e5"
+	],
+	tasks: [{
+		uid: "7d9916a3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:graphite_electrode"
+		}]
+	}]
+}

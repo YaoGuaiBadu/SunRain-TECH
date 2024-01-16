@@ -1,0 +1,20 @@
+{
+	x: -10.0d,
+	y: 0.0d,
+	dependencies: [
+		"0c8400ea"
+	],
+	tasks: [{
+		uid: "66be0f0b",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "ic2biogas",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

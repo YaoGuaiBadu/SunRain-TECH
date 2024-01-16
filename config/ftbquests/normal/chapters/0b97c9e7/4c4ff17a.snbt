@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: -10.0d,
+	dependencies: [
+		"fd1e642b"
+	],
+	tasks: [{
+		uid: "d7dcf0b6",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}]
+}

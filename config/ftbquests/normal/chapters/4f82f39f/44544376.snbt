@@ -1,0 +1,42 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	dependencies: [
+		"0814b4ec"
+	],
+	tasks: [{
+		uid: "7bf15df4",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}]
+	},
+	{
+		uid: "16d77957",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_ore_nickel"
+		}]
+	},
+	{
+		uid: "99c1b042",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_ore_copper"
+		}]
+	},
+	{
+		uid: "1e317d7f",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_ore_iron"
+		}]
+	},
+	{
+		uid: "5f54a363",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_ore_gold"
+		}]
+	}]
+}

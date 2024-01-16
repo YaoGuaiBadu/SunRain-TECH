@@ -1,0 +1,17 @@
+{
+	x: 10.5d,
+	y: -6.5d,
+	dependencies: [
+		"c1d25ae1"
+	],
+	tasks: [{
+		uid: "f3711f25",
+		type: "item",
+		items: [{
+			id: "botania:pool",
+			tag: {
+				RenderFull: 1b
+			}
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 7.0d,
+	y: 6.0d,
+	dependencies: [
+		"4375103b"
+	],
+	tasks: [{
+		uid: "41732e79",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	},
+	{
+		uid: "841b1a1b",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}]
+	},
+	{
+		uid: "1a535df3",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_powder"
+		}]
+	}]
+}

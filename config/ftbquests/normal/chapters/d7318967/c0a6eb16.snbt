@@ -1,0 +1,13 @@
+{
+	title: "我该干什么",
+	x: 2.0d,
+	y: 0.0d,
+	description: "如你所见，这一章并没有什么重要的任务，你所需要做的就是使用MEK的设备优化你的产线，提高你的矿石处理产率，仅此而已。",
+	dependencies: [
+		"1b7220bf"
+	],
+	tasks: [{
+		uid: "d016b962",
+		type: "checkmark"
+	}]
+}

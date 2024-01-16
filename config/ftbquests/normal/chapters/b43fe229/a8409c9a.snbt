@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: 3.5d,
+	dependencies: [
+		"173eb5e5"
+	],
+	tasks: [{
+		uid: "be5e7ffb",
+		type: "item",
+		items: [{
+			item: "ic2:ingot 1 8"
+		}]
+	},
+	{
+		uid: "7a3941eb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 35"
+		},
+		{
+			item: "mekanism:dust 1 7"
+		}]
+	}]
+}

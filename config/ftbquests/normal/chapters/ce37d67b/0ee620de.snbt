@@ -1,0 +1,9 @@
+{
+	title: "欢迎来到地狱",
+	x: -3.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "f1756d5b",
+		type: "checkmark"
+	}]
+}

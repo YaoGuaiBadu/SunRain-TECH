@@ -1,0 +1,14 @@
+{
+	x: -8.0d,
+	y: -2.0d,
+	dependencies: [
+		"d94b2889"
+	],
+	tasks: [{
+		uid: "4d212217",
+		type: "item",
+		items: [{
+			item: "ic2:heat_storage"
+		}]
+	}]
+}

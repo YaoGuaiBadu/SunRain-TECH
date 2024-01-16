@@ -1,0 +1,33 @@
+recipes.remove(<ic2:resource:13>);
+recipes.remove(<mekanism:basicblock:8>);
+recipes.remove(<ic2:resource:12>);
+recipes.remove(<qmd:containment_casing>);
+recipes.remove(<nuclearcraft:part:12>);
+recipes.remove(<nuclearcraft:part:10>);
+recipes.remove(<nuclearcraft:part:11>);
+recipes.remove(<nuclearcraft:part:14>);
+recipes.remove(<nuclearcraft:part:3>);
+recipes.remove(<nuclearcraft:part:2>);
+recipes.remove(<nuclearcraft:part:1>);
+recipes.remove(<nuclearcraft:part>);
+recipes.remove(<nuclearcraft:part:9>);
+recipes.remove(<nuclearcraft:part:8>);
+recipes.remove(<nuclearcraft:part:7>);
+recipes.removeShaped(<qmd:accelerator_casing>);
+
+recipes.addShaped(<qmd:accelerator_casing>, [[<ore:plateElite>, <contenttweaker:circuitluv>, <ore:plateElite>], [<ore:ingotThermoconducting>, <mekanismgenerators:reactor:1>,<ore:ingotThermoconducting>], [<ore:plateElite>, <contenttweaker:circuitluv>, <ore:plateElite>]]);
+recipes.addShaped(<nuclearcraft:part:11> * 4, [[<ore:plateBasic>, <mets:advanced_oc_heat_vent>, <ore:plateBasic>], [<mets:titanium_casing>, <mets:superconducting_cable>, <mets:titanium_casing>], [<ore:plateBasic>, <mets:advanced_oc_heat_vent>, <ore:plateBasic>]]);
+recipes.addShaped(<nuclearcraft:part:14> * 8, [[<ore:plateAdvanced>, <mets:advanced_oc_heat_vent>, <ore:plateAdvanced>], [<mets:advanced_oc_heat_vent>, <mets:superconducting_cable>, <mets:advanced_oc_heat_vent>], [<ore:plateAdvanced>, <mets:advanced_oc_heat_vent>, <ore:plateAdvanced>]]);
+recipes.addShaped(<nuclearcraft:part:3>, [[<mets:super_iridium_compress_plate>, <ore:dustCrystalBinder>, <mets:super_iridium_compress_plate>], [<mets:advanced_heat_vent>, <ore:plateDU>, <mets:advanced_heat_vent>], [<mets:super_iridium_compress_plate>, <ore:dustCrystalBinder>, <mets:super_iridium_compress_plate>]]);
+recipes.addShaped(<nuclearcraft:part:2>, [[<ore:ingotLeadPlatinum>, <ore:ingotUranium238>, <ore:ingotLeadPlatinum>], [<mets:advanced_oc_heat_vent>, <ore:plateAdvanced>, <mets:advanced_oc_heat_vent>], [<ore:ingotLeadPlatinum>, <ore:ingotUranium238>, <ore:ingotLeadPlatinum>]]);
+recipes.addShaped(<nuclearcraft:part:1>, [[<ore:ingotStainlessSteel>, <ore:ingotTough>, <ore:ingotStainlessSteel>], [<mets:niobium_titanium_plate>, <ore:plateBasic>, <mets:niobium_titanium_plate>], [<ore:ingotStainlessSteel>, <ore:ingotTough>, <ore:ingotStainlessSteel>]]);
+recipes.addShaped(<nuclearcraft:part>, [[<ore:ingotStainlessSteel>, <ore:ingotLead>, <ore:ingotStainlessSteel>], [<ore:plateTitanium>, <ore:dustGraphite>, <ore:plateTitanium>], [<ore:ingotStainlessSteel>, <ore:ingotLead>, <ore:ingotStainlessSteel>]]);
+recipes.addShaped(<nuclearcraft:part:9>, [[<minecraft:piston>, <ore:CircuitEv>, <minecraft:piston>], [<mets:advanced_heat_vent>, <ore:ingotFerroboron>, <mets:advanced_heat_vent>], [<ore:ingotFerroboron>, <ore:CircuitEv>, <ore:ingotFerroboron>]]);
+recipes.addShaped(<nuclearcraft:part:8>, [[<nuclearcraft:part:4>, <ore:CircuitEv>, <nuclearcraft:part:4>], [<mets:advanced_heat_vent>, <ore:ingotFerroboron>, <mets:advanced_heat_vent>], [<ore:ingotFerroboron>, <ore:CircuitEv>, <ore:ingotFerroboron>]]);
+recipes.addShaped(<nuclearcraft:part:7>, [[<mets:superconducting_cable>, <ore:CircuitEv>, <mets:superconducting_cable>], [<mets:advanced_heat_vent>, <ore:ingotFerroboron>, <mets:advanced_heat_vent>], [<ore:ingotFerroboron>, <ore:CircuitEv>, <ore:ingotFerroboron>]]);
+recipes.addShaped(<qmd:containment_casing>, [[<ore:plateElite>, <ore:CircuitLuv>, <ore:plateElite>], [<mets:nano_living_metal>, <mekanismgenerators:reactor:1>, <mets:nano_living_metal>], [<ore:plateElite>, <ore:CircuitLuv>, <ore:plateElite>]]);
+recipes.addShaped(<nuclearcraft:part:12>, [[<mets:niobium_titanium_plate>, <ore:ingotTough>, <mets:niobium_titanium_plate>], [<ore:ingotTough>, <ore:CircuitHv>, <ore:ingotTough>], [<mets:niobium_titanium_plate>, <ore:ingotTough>, <mets:niobium_titanium_plate>]]);
+recipes.addShaped(<nuclearcraft:part:10>, [[<mets:niobium_titanium_plate>, <ore:ingotTough>, <mets:niobium_titanium_plate>], [<ore:ingotTough>, <ore:CircuitEv>, <ore:ingotTough>], [<mets:niobium_titanium_plate>, <ore:ingotTough>, <mets:niobium_titanium_plate>]]);
+recipes.addShaped(<mekanism:basicblock:8>, [[<ic2:containment_plating>, <qmd:ingot_alloy:2>, <ic2:containment_plating>], [<ic2:fluid_cell>.withTag({Fluid: {FluidName: "ic2biogas", Amount: 1000}}), <ore:CircuitMv>,<ic2:fluid_cell>.withTag({Fluid: {FluidName: "ic2construction_foam", Amount: 1000}})], [<ic2:containment_plating>, <qmd:ingot_alloy:2>, <ic2:containment_plating>]]);
+recipes.addShaped(<ic2:resource:12>, [[<ore:plateSteel>, <ore:plateIron>, <ore:plateSteel>], [<ore:plateIron>, <ore:CircuitLv>, <ore:plateIron>], [<ore:plateSteel>, <ore:plateIron>, <ore:plateSteel>]]);
+

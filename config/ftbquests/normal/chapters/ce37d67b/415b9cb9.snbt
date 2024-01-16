@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"becc49c4",
+		"5ea500a5"
+	],
+	tasks: [{
+		uid: "e3fb124a",
+		type: "item",
+		items: [{
+			item: "mets:niobium_ore"
+		}]
+	}]
+}

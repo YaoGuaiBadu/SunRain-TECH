@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -13.0d,
+	dependencies: [
+		"a187dc23"
+	],
+	tasks: [{
+		uid: "82125dc7",
+		type: "item",
+		items: [{
+			item: "ic2:dust 1 13"
+		}]
+	}]
+}

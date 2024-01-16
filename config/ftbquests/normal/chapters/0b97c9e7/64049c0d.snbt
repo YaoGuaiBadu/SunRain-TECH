@@ -1,0 +1,14 @@
+{
+	x: -8.0d,
+	y: 0.0d,
+	dependencies: [
+		"916d8345"
+	],
+	tasks: [{
+		uid: "ec85a467",
+		type: "item",
+		items: [{
+			item: "ic2:upgrade"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 5.0d,
+	dependencies: [
+		"f3f8cdf2"
+	],
+	tasks: [{
+		uid: "db390c21",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:fluid_storage_cell_4k",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

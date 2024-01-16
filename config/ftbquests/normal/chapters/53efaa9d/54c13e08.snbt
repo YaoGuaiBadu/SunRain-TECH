@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 7.0d,
+	dependencies: [
+		"7790dee9",
+		"0055279f",
+		"ef91eada",
+		"f396cc33"
+	],
+	tasks: [{
+		uid: "dff88025",
+		type: "item",
+		items: [{
+			item: "contenttweaker:circuitiv"
+		}]
+	}]
+}

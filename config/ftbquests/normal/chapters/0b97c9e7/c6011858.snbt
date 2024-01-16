@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"97d45061"
+	],
+	tasks: [{
+		uid: "f85bd0c2",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "ic2construction_foam",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

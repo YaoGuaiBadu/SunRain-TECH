@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 5.0d,
+	dependencies: [
+		"7d0d3356"
+	],
+	tasks: [{
+		uid: "e5e47c97",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:fluid_storage_cell_16mb",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

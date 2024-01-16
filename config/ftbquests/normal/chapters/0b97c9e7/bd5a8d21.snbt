@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	dependencies: [
+		"d214485a",
+		"f360aff3"
+	],
+	tasks: [{
+		uid: "831767b8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:picii"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -2.0d,
+	y: 11.0d,
+	shape: "gear",
+	dependencies: [
+		"b274bdb5",
+		"bde79a1c",
+		"ea949257",
+		"8008f036"
+	],
+	tasks: [{
+		uid: "0c6828f4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:circuitlv"
+		}]
+	}]
+}

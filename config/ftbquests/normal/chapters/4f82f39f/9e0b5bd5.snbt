@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	size: 2.0d,
+	tasks: [{
+		uid: "b5dda66d",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "929108ca",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 4
+	}]
+}

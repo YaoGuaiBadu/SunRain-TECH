@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -2.5d,
+	dependencies: [
+		"a6d232ba"
+	],
+	tasks: [{
+		uid: "87f29a7b",
+		type: "item",
+		items: [{
+			item: "enderio:item_material"
+		}]
+	}]
+}

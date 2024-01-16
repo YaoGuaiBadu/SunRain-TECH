@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	dependencies: [
+		"8b45559a"
+	],
+	tasks: [{
+		uid: "29d605de",
+		type: "item",
+		items: [{
+			item: "qmd:dust 1 3"
+		},
+		{
+			item: "mets:titanium_dust"
+		}]
+	}]
+}

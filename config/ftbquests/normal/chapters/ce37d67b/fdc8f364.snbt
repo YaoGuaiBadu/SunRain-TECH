@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	dependencies: [
+		"e84e4cc2"
+	],
+	tasks: [{
+		uid: "1964c1dc",
+		type: "item",
+		items: [{
+			item: "ic2:reactor_heat_vent"
+		}]
+	}]
+}

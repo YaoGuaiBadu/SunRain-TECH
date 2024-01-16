@@ -1,0 +1,15 @@
+{
+	title: "第四章 PartB-产线升级",
+	icon: {
+		id: "mekanism:energycube",
+		tag: {
+			tier: 0,
+			mekData: {
+				energyStored: 2000000.0d
+			}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "square"
+}

@@ -1,0 +1,30 @@
+{
+	x: -3.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3be7e802"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "70be470d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8b7f315e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "80dc0392",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	}]
+}

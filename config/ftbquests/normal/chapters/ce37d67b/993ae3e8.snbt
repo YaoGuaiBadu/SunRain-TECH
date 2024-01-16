@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 11.5d,
+	dependencies: [
+		"71ffd774"
+	],
+	tasks: [{
+		uid: "53b23594",
+		type: "item",
+		items: [{
+			item: "mets:nano_living_metal"
+		}]
+	}]
+}

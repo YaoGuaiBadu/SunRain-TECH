@@ -1,0 +1,15 @@
+{
+	x: 11.0d,
+	y: 2.0d,
+	dependencies: [
+		"0814b4ec"
+	],
+	tasks: [{
+		uid: "dc57614c",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}],
+		count: 64L
+	}]
+}

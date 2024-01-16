@@ -1,0 +1,12 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	dependencies: [
+		"555106ec"
+	],
+	tasks: [{
+		uid: "988d3c14",
+		type: "checkmark",
+		title: "工业发酵机"
+	}]
+}

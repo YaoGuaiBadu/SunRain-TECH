@@ -1,0 +1,20 @@
+{
+	x: -4.0d,
+	y: 3.0d,
+	dependencies: [
+		"71e8271d"
+	],
+	tasks: [{
+		uid: "04b78ca6",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "hydrogen",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}
