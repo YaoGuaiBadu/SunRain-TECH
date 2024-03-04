@@ -10,52 +10,52 @@ val Mekanism as IMod = loadedMods["mekanism"];
 if (!isNull(Mekanism)) {
     val itemMekanism as IItemStack[] = Mekanism.items;
     for item in itemMekanism {
-        if (item.displayName has "基础") {
+        if (item.displayName has "下级刻晴") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(LV);
         }
-		if (item.displayName has "高级") {
+		if (item.displayName has "初级刻晴") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(MV);
         }
-		if (item.displayName has "升级") {
+		if (item.displayName has "中级刻晴") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(MV);
         }
-		if (item.displayName has "精英") {
+		if (item.displayName has "高级刻晴") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(HV);
         }
-		if (item.displayName has "终极") {
+		if (item.displayName has "终极刻晴") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(EV);
         }
-		if (item.displayName has "创造") {
+		if (item.displayName has "创造刻晴") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(UHV);
         }
-		if (item.displayName has "反应堆") {
+		if (item.displayName has "XB") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(LUV);
         }
-		if (item.displayName has "涡轮") {
+		if (item.displayName has "我是傻逼") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(HV);
         }
-		if (item.displayName has "热力") {
+		if (item.displayName has "刻晴怎么可以那么可爱") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEINPUT);
 			item.addTooltip(HV);
         }
-		if (item.displayName has "发电机") {
+		if (item.displayName has "可乐兔") {
 			item.addTooltip(MACHINEINFO);
 			item.addTooltip(TYPEGENERATOR);
 			item.addTooltip(MV);
